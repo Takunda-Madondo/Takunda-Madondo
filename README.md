@@ -42,7 +42,7 @@
 
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/takunda-madondo-649b66218/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/takunda-madondo-649b66218/)  
 - 🌐 Portfolio coming soon!  
 - 📬 tikagura12@gmail.com
 
