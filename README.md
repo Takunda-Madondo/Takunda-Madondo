@@ -1,52 +1,47 @@
 <h1 align="center">Hi 👋, I'm Takunda Madondo</h1>
-<h3 align="center">Software Developer | Data & AI Enthusiast | Microsoft Tech Stack Advocate</h3>
+<h3 align="center">Software Developer | Data & AI Enthusiast | Microsoft Technology Consultant</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif">
 </p>
 
 ---
 
-### 🚀 About Me
+### 🧠 About Me
 
-- 💼 I’m currently a **Software Developer** with strong experience in Microsoft 365, SharePoint, Azure, and the Power Platform.
-- 🧠 I’m passionate about **Data Science** and **AI**, and I love building ML models and data-driven solutions.
-- 🧰 My toolbox includes **Python, Django, React, Power BI, Scikit-learn, TensorFlow**, and more.
-- 🌱 I’m currently enhancing my skills in **Cloud AI and MLOps**.
-- 🎯 Always looking for challenging problems to solve using **technology and data**.
+I'm a **results-driven Software Developer** and Microsoft Technologies Consultant with a background in deploying and optimizing cloud and data solutions. I have strong skills in:
+- Microsoft 365, SharePoint, Azure
+- Python, Django, React
+- Machine Learning & AI (Scikit-learn, TensorFlow, PyTorch)
+- Power Platform, Power BI, SQL
 
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+I'm passionate about creating impactful systems—from intelligent ETL pipelines to predictive models—and always eager to explore the boundaries of tech and AI.
 
 ---
 
-### 📊 GitHub Stats
+### 💼 Experience Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+🧩 **IT Consultant @ iCraft Pvt Ltd**  
+*Jan 2024 – Feb 2025*  
+- Led deployments of Microsoft 365, SharePoint, and Dynamics 365  
+- Automated workflows and ETL pipelines (30% faster processing)  
+- Built Power BI dashboards with advanced DAX calculations  
+- Developed a credit risk prediction model for unbanked clients  
+
+🏦 **IT Intern @ Zimbabwe Women’s Microfinance Bank**  
+*Nov 2022 – Jul 2023*  
+- Built a reporting portal using Python & Power BI  
+- Improved data accuracy through cleaning with Python/SQL  
+- Contributed to staff loan systems and SharePoint integration  
+- Supported cloud backups and banking operations using Azure  
 
 ---
 
-### 📫 Let's Connect
+### 🛠️ My Tech Stack
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/takunda-madondo-649b66218/)  
-- 🌐 Portfolio coming soon!  
-- 📬 tikagura12@gmail.com
-
----
-
-> “In God we trust. All others must bring data.” — W. Edwards Deming
-
+```yaml
+Languages: Python, Java, SQL, HTML, CSS  
+Frameworks: Django, React  
+AI/ML: Scikit-learn, TensorFlow, Keras, PyTorch  
+Tools: Power Platform, Git, REST APIs, Power BI, Azure  
+Databases: PostgreSQL, MySQL, Microsoft Dataverse  
