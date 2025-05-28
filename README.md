@@ -1,6 +1,14 @@
-
 <h1 align="center" >Hi 👋, I'm <span style="color: blue;">Takunda Madondo</span></h1>
-<h3 align="center">Software Developer | Data & AI Enthusiast | Microsoft Tech Stack Advocate</h3>
+<h3 align="center">
+  <img src="https://img.icons8.com/color/28/000000/source-code.png" alt="Developer Icon" />
+  Software Developer &nbsp;|&nbsp;
+  <img src="https://img.icons8.com/color/28/000000/artificial-intelligence.png" alt="AI Icon" />
+  Data & AI Enthusiast &nbsp;|&nbsp;
+  <img src="https://img.icons8.com/color/28/000000/microsoft.png" alt="Microsoft Icon" />
+  Microsoft Tech Stack Advocate
+</h3>
+
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif">
