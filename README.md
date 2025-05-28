@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Takunda Madondo</h1>
+<h1 align="center" >Hi 👋, I'm <span style="color: blue;">Takunda Madondo</span></h1>
 <h3 align="center">Software Developer | Data & AI Enthusiast | Microsoft Tech Stack Advocate</h3>
 
 <p align="center">
