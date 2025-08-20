@@ -56,7 +56,7 @@ I’m a **Software Developer** with strong experience in **Python**, **Microsoft
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/takunda-madondo-649b66218/)  
-- 🌐 <a href="https://takunda-madondo.github.io/my_portfolio/">Website</a>
+- 🌐 <a href="https://takunda-madondo.github.io/Website/">Website</a>
 - 📬 tikagura12@gmail.com
 
 ---
