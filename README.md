@@ -1,10 +1,10 @@
 <h1 align="center" >Hi 👋, I'm <span style="color: blue;">Takunda Madondo</span></h1>
 <h3 align="center">
-  <img src="https://img.icons8.com/color/28/000000/source-code.png" alt="Developer Icon" />
+  <img src="https://img.icons8.com/color/28/000000/consultation.png" alt="Consulting Icon" />
   IT Consultant &nbsp;|&nbsp;
   <img src="https://img.icons8.com/color/28/000000/artificial-intelligence.png" alt="AI Icon" />
   AI & Data Enthusiast &nbsp;|&nbsp;
-  <img src="https://img.icons8.com/color/28/000000/microsoft.png" alt="Microsoft Icon" />
+  <img src="https://img.icons8.com/color/28/000000/source-code.png" alt="Developer Icon" />
   Software Engineer
 </h3>
 
